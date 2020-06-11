@@ -1,5 +1,5 @@
 # basic-machine-learning
 
 HW1,2: regression, classification, regularization
-k-mean: clustering
+HW3=k-mean: clustering
 
